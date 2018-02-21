@@ -1,1 +1,1 @@
-# CJLA-HelloMojo
+# HelloMojo
